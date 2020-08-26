@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "extendedresources:item/nickel_ingot"
+  }
+}

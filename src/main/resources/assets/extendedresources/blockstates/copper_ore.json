@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "extendedresources:block/copper_ore"
+    }
+  }
+}
