@@ -4,6 +4,7 @@
   "package": "com.chandlervanscoy.extendedresources.mixin",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "BuiltinBiomesMixin",
     "DefaultBiomeFeaturesMixin"
   ],
   "client": [
